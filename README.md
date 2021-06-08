@@ -2,7 +2,7 @@
 
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkseungje%2FParkseungje&count_bg=%236DADE7&title_bg=%231A1717&icon=paypal.svg&icon_color=%23FCFCFC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)            
+
 
 </div>
 
