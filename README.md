@@ -30,10 +30,9 @@ Web Developer · K-엔터테인먼트 커뮤니티 유지보수 및 개발
  
 - xtrabackup 도입으로 복원시간 약 6배 단축
 - 데이터베이스 이중화 작업
-- Cloudflare DDoS 알림 발생 시 언더어택모드 자동화 (네이버웍스 OAuth2)
-- Twitter API v1→v2 리팩토링
-- AOS(Java), iOS(Swift) 앱 유지보수 및 배포
-- Linux 서버 관리
+- Cloudflare DDoS 자동 대응 시스템 개발 (OAuth2 연동)
+- Twitter API v2 마이그레이션 및 AOS/iOS 앱 운영
+- Linux 서버 인프라 관리
  
 **웨인테크놀로지** · <code>2021.10 ~ 2023.02</code>  
 Web Developer · 금융솔루션 개발
