@@ -41,14 +41,6 @@ Web Developer · 금융솔루션 개발
 - Laravel + jQuery 기반 P2P 금융 웹사이트 개발
 - 대출접수, 상담, 승인, 관리 등 전체 시스템 풀스택 개발
 - 온투업, 대부업 웹사이트 및 관리자 페이지 개발
- 
-**빅스텝에듀케이션** · <code>2020.12 ~ 2021.01</code>  
-Back-End Developer · 기업협업 프로젝트
- 
-- Django + DRF 기반 RESTful API 구축
-- 마이프랜차이즈 클론 프로젝트 백엔드 개발
-- 실제 데이터사이언티스트와 협업하여 전국 카페정보 API 구현
- 
 </td> <td width="50%" valign="top">
  
 <h2>🎯 Mindset</h2>
