@@ -5,9 +5,6 @@
 **Full Stack Developer** · **3+ Years** · 🇰🇷
  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
- 
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@psj0810) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Parkseungje) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tmdwprpdla@gmail.com)
- 
 </div>
  
 ---
@@ -84,30 +81,6 @@ PHP의 레거시 프로젝트에서 겪은 유지보수의 어려움을 극복�
  
 ---
  
-## 🛠 Tech Stack
- 
-### Backend
-```
-Java, Spring Boot, JPA, PHP, Laravel, Python, Django
-RESTful API, JWT, OAuth2
-MySQL, Redis, AWS RDS
-```
- 
-### Frontend
-```
-JavaScript, jQuery, Vue.js, Pinia, Tailwind CSS
-HTML5, CSS3, Responsive Design
-```
- 
-### DevOps & Tools
-```
-Linux Server, AWS, Docker
-xtrabackup, Database Replication
-Git, GitHub, Swagger
-```
- 
----
- 
 ## 📊 GitHub Stats
  
 <table> <tr> <td width="50%" align="center">
@@ -119,47 +92,6 @@ Git, GitHub, Swagger
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkseungje&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Parkseungje)
  
 </td> </tr> </table>
- 
----
- 
-## 🚀 Featured Projects
- 
-### 🏢 [통합 물류 시스템](https://github.com/Parkseungje) (진행 중)
-**Spring Boot 3 + Vue 3 + MySQL**
-- 기존 사내 전용 물류 프로그램의 환계 분석 및 개선
-- 플랫폼 성격을 갖춘 신규 시스템 설계 및 개발
-- 물류 업무 전반 디지털화 (노선/단가/서류 관리)
- 
-### 📱 [인스티즈 커뮤니티](https://www.instiz.net)
-**PHP + MySQL + Linux**
-- K-엔터테인먼트 커뮤니티 유지보수 및 개발
-- xtrabackup 도입으로 복원시간 6배 단축
-- DB 이중화, DDoS 대응 자동화, Twitter API 마이그레이션
- 
-### 💰 [P2P 금융 플랫폼](https://github.com/Parkseungje)
-**Laravel + jQuery + MySQL**
-- 온투업/대부업 웹사이트 풀스택 개발
-- 대출접수, 상담, 승인, 관리 시스템 구현
- 
-### 💼 [ERP System](https://github.com/Parkseungje/ERP_system)
-**전자정부프레임워크 + MyBatis**
-- 근태관리, 계정과목 관리, 미수금 관리
-- [코드리뷰 보기](https://velog.io/@psj0810/ERP%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B3%84%EC%A0%95%EA%B3%BC%EB%AA%A9%ED%8C%8C%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0)
- 
-### ✈️ [MyLittleTrip](https://github.com/Parkseungje/14-2nd-MyLittleTrip-backend)
-**Django + DRF**
-- 항공권 예약 서비스 클론
-- 항공권 CRUD, 검색 기능
-- AWS RDS 활용
- 
-### 🛒 [O9O9](https://github.com/Parkseungje/O9O9-backend)
-**Django + DRF**
-- G9 클론 프로젝트
-- 회원가입/로그인, 문의게시판 CRUD
-- JWT 인증, bcrypt 암호화
-- [프로젝트 후기](https://velog.io/@psj0810/G9-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B1%EC%97%94%EB%93%9C)
- 
----
  
 <div align="center">
  
