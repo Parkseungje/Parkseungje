@@ -1,32 +1,174 @@
-# Hi I'm Software Developer 😎
-
-<div align=center>
-  
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Parkseungje?pet-id=1" width="1000" height="120"/>
-</a>
+<div align="center">
+ 
+## 👋 박승제 · _"경험을 넘어 문제를 예방하는 개발자"_
+ 
+**Full Stack Developer** · **3+ Years** · 🇰🇷
+ 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+ 
+[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@psj0810) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Parkseungje) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tmdwprpdla@gmail.com)
+ 
 </div>
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JAVA-f0824a?style=flat-square&logo=JAVA&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-5689f0?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Django-0C4931?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Spring-4dc451?style=flat-square&logo=spring&logoColor=white"/></a> &nbsp 
-
-
-
-
+ 
+---
+ 
+<table> <tr> <td width="50%" valign="top">
+ 
+<h2>💼 Current</h2>
+ 
+<h3>🏢 국제종합물류</h3>
+ 
+**전산팀 선임연구원 · 웹개발** · <code>2025.04 ~ 현재</code>
+ 
+기존 사내 전용 물류 포워딩 프로그램의 한계를 분석 및 개선 방안 도출, 플랫폼 성격을 갖춘 신규 물류 포워딩 시스템 연구 및 기획을 진행하고 있습니다.
+ 
+**Spring Boot 3 + Vue 3** 기반 통합 물류 시스템을 처음부터 설계하고 개발하며, 물류 업무 전반(노선/단가/서류 관리 등)을 디지털화하여 사용자 경험 및 업무 효율을 향상시키고 있습니다.
+ 
 <br>
+ 
+<h2>📋 Experience</h2>
+ 
+**㈜인스티즈** · <code>2023.03 ~ 2024.05</code>  
+Web Developer · K-엔터테인먼트 커뮤니티 유지보수 및 개발
+ 
+- xtrabackup 도입으로 복원시간 약 6배 단축
+- 데이터베이스 이중화 작업
+- Cloudflare DDoS 알림 발생 시 언더어택모드 자동화 (네이버웍스 OAuth2)
+- Twitter API v1→v2 리팩토링
+- AOS(Java), iOS(Swift) 앱 유지보수 및 배포
+- Linux 서버 관리
+ 
+**웨인테크놀로지** · <code>2021.10 ~ 2023.02</code>  
+Web Developer · 금융솔루션 개발
+ 
+- Laravel + jQuery 기반 P2P 금융 웹사이트 개발
+- 대출접수, 상담, 승인, 관리 등 전체 시스템 풀스택 개발
+- 온투업, 대부업 웹사이트 및 관리자 페이지 개발
+ 
+**빅스텝에듀케이션** · <code>2020.12 ~ 2021.01</code>  
+Back-End Developer · 기업협업 프로젝트
+ 
+- Django + DRF 기반 RESTful API 구축
+- 마이프랜차이즈 클론 프로젝트 백엔드 개발
+- 실제 데이터사이언티스트와 협업하여 전국 카페정보 API 구현
+ 
+</td> <td width="50%" valign="top">
+ 
+<h2>🎯 Mindset</h2>
+ 
+### 💡 문제를 예방하는 코드
+ 
+단순히 빠르게 개발하는 것이 아니라, **예기치 못한 문제를 최소화하고 유지보수의 부담을 줄이며 변화에 유연하게 대응할 수 있는 코드**를 작성하는 것을 개발의 핵심 가치로 삼고 있습니다.
+ 
+최소한의 코드 변경만으로도 효과적인 유지보수가 가능하도록 하는 것을 중요하게 생각합니다.
+ 
+### 🚀 두려움 없는 도전
+ 
+1인 개발자로 근무하며 **운영 서버 배포, 신기술 적용, 타사 API 연동, 장애 대응** 등 모든 것을 직접 경험했습니다.
+ 
+철저한 사전 테스트를 거쳐 안정적으로 적용하는 능력과 다양한 기술을 두려움 없이 도입하는 태도를 갖추고 있습니다.
+ 
+### 📚 경험을 통한 성장
+ 
+책에서 배울 수 없는 **수많은 시행착오를 통해 쌓인 실무 경험**이 개발자의 진정한 역량이라고 믿습니다.
+ 
+PHP의 레거시 프로젝트에서 겪은 유지보수의 어려움을 극복하고자 **Vue3 + Spring으로 커리어 전환**을 했으며, 현재 Spring Boot 기반 프로젝트를 주도하며 빠르게 성장하고 있습니다.
+ 
+### 🔥 끊임없는 학습
+ 
+같은 서버 사이드 언어를 다룬 **4년에 가까운 실무 경력과 응용력**, 꾸준한 학습을 통한 높은 이해도를 바탕으로 빠르게 적응하여 높은 퍼포먼스를 보여드릴 수 있습니다.
+ 
+입사 후에도 꾸준히 고민하고 학습하여 더욱 깊이 있는 개발 역량을 갖춰 회사에 꼭 필요한 인재가 되겠습니다.
+ 
+</td> </tr> </table>
+ 
+---
+ 
+## 🛠 Tech Stack
+ 
+### Backend
+```
+Java, Spring Boot, JPA, PHP, Laravel, Python, Django
+RESTful API, JWT, OAuth2
+MySQL, Redis, AWS RDS
+```
+ 
+### Frontend
+```
+JavaScript, jQuery, Vue.js, Pinia, Tailwind CSS
+HTML5, CSS3, Responsive Design
+```
+ 
+### DevOps & Tools
+```
+Linux Server, AWS, Docker
+xtrabackup, Database Replication
+Git, GitHub, Swagger
+```
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+<table> <tr> <td width="50%" align="center">
+ 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parkseungje&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Parkseungje)
+ 
+</td> <td width="50%" align="center">
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkseungje&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Parkseungje)
+ 
+</td> </tr> </table>
+ 
+---
+ 
+## 🚀 Featured Projects
+ 
+### 🏢 [통합 물류 시스템](https://github.com/Parkseungje) (진행 중)
+**Spring Boot 3 + Vue 3 + MySQL**
+- 기존 사내 전용 물류 프로그램의 환계 분석 및 개선
+- 플랫폼 성격을 갖춘 신규 시스템 설계 및 개발
+- 물류 업무 전반 디지털화 (노선/단가/서류 관리)
+ 
+### 📱 [인스티즈 커뮤니티](https://www.instiz.net)
+**PHP + MySQL + Linux**
+- K-엔터테인먼트 커뮤니티 유지보수 및 개발
+- xtrabackup 도입으로 복원시간 6배 단축
+- DB 이중화, DDoS 대응 자동화, Twitter API 마이그레이션
+ 
+### 💰 [P2P 금융 플랫폼](https://github.com/Parkseungje)
+**Laravel + jQuery + MySQL**
+- 온투업/대부업 웹사이트 풀스택 개발
+- 대출접수, 상담, 승인, 관리 시스템 구현
+ 
+### 💼 [ERP System](https://github.com/Parkseungje/ERP_system)
+**전자정부프레임워크 + MyBatis**
+- 근태관리, 계정과목 관리, 미수금 관리
+- [코드리뷰 보기](https://velog.io/@psj0810/ERP%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B3%84%EC%A0%95%EA%B3%BC%EB%AA%A9%ED%8C%8C%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0)
+ 
+### ✈️ [MyLittleTrip](https://github.com/Parkseungje/14-2nd-MyLittleTrip-backend)
+**Django + DRF**
+- 항공권 예약 서비스 클론
+- 항공권 CRUD, 검색 기능
+- AWS RDS 활용
+ 
+### 🛒 [O9O9](https://github.com/Parkseungje/O9O9-backend)
+**Django + DRF**
+- G9 클론 프로젝트
+- 회원가입/로그인, 문의게시판 CRUD
+- JWT 인증, bcrypt 암호화
+- [프로젝트 후기](https://velog.io/@psj0810/G9-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B1%EC%97%94%EB%93%9C)
+ 
+---
+ 
+<div align="center">
+ 
+### 💬 Contact Me
+ 
+[![Blog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@psj0810)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmdwprpdla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parkseungje)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkseungje&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkseungje&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+**"경험과 학습을 바탕으로 빠르게 성장하는 개발자입니다"**
+ 
+</div>
